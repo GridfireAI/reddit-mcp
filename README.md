@@ -4,6 +4,10 @@
 
 A plug-and-play [MCP](https://modelcontextprotocol.io) server to browse, search, and read Reddit.
 
+<a href="https://glama.ai/mcp/servers/@GridfireAI/reddit-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@GridfireAI/reddit-mcp/badge" alt="Reddit MCP server" />
+</a>
+
 ## Demo
 Here's a short video showing how to use this in Claude Desktop:
 
